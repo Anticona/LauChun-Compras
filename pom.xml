@@ -11,7 +11,7 @@
 	<groupId>pe.idat.edu.lauchun</groupId>
 	<artifactId>Lauchun</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Lauchun</name>
+	<name>Lauchun_Compras</name>
 	<description>Proyecto del Grupo 2 para la empresa LauChun área de compras</description>
 	<properties>
 		<java.version>11</java.version>
